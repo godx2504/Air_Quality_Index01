@@ -73,3 +73,9 @@ Where:
 - **Requests / API integration** → For real-time data
 
 ---
+
+## Steps
+1. Importing Library
+2. Data preprocessing
+3. Exploratory data analysis
+4. 
