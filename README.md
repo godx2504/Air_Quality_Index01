@@ -1,4 +1,4 @@
-# Air_Quality_Index02
+# Air_Quality_Index01
 Predicting Air Quality Index Using Regression
 # 🌍 Predicting Air Quality Index (AQI) using Python
 
